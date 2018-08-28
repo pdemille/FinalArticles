@@ -1,0 +1,91 @@
+
+ body {
+ 	width: 75%;
+	margin: 0 auto; 
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: black;
+ }
+
+ p {
+	 color: orange;
+ }
+
+ #saved{
+ 	color: black;
+ }
+
+
+ .message{
+ 	    margin: 2px;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 22px;
+ }
+ .comment {
+  color: white;
+  background: white;
+ }
+ .delete {
+  color: white;
+  background: white;
+ }
+ h1{
+ 	text-align: center;
+ 	margin:20px;
+ }
+.save{
+ 	color: white;
+ 	background: white;
+}
+
+
+ul>li{
+	    margin-top: 4px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+
+#burger{
+ animation: rotateOut 5s linear infinite;
+}
+ button:hover {
+ 	opacity: 0.5;
+ }
+main{
+  min-height: 500px;
+}
+footer {
+	background-color: orange;
+	padding: 30px 0;
+	color: orange;
+}
+
+.lines{
+border-bottom: 3px solid orange;
+background-color: #DDDDDD;
+}
+
+.btn {
+	background-color: orange;
+	margin-top: 10px;
+}
+
+#jumbo {
+	background-color: orange;
+	color: white;
+}
+
+form {
+	opacity: 100;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  line-height: 50px;
+  background-image: none;
+}
+
